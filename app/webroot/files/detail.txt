@@ -1,0 +1,13 @@
+stdClass Object
+(
+    [User] => stdClass Object
+        (
+            [uid] => 
+        )
+
+    [SnId] => stdClass Object
+        (
+            [sid] => 
+        )
+
+)

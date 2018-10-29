@@ -1,0 +1,230 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,400,700,600);
+*{
+	margin:0px;
+	padding:0px;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	box-sizing:border-box;
+}
+body {
+	width:100%;
+	float:left;
+    font-family: 'Open Sans', sans-serif !important;
+    background: #E2E2E2;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif !important;
+	margin:0px;
+	margin-bottom:20px;
+}
+h1{
+	font-size:31px;
+}
+h2{
+	font-size:27px;
+}
+h3{
+	font-size:23px;
+}
+h4{
+	font-size:21px;
+}
+h5{
+	font-size:19px;
+}
+h6{
+	font-size:16px;
+}
+p{
+	font-family: 'Open Sans', sans-serif !important;
+	font-weight:400 !important;
+	margin:0px;
+	margin-bottom:15px;
+}
+.clr{
+	clear:both;
+}
+/* Menu Css Include Here
+========================*/
+.navbar-inverse.navbar-static-top{
+	margin:0px;
+}
+/* Commen Css For Whole Website
+===============================*/
+.page_heading h2{
+	margin-top:5px;
+}
+.top-form{
+	width:100%;
+	float:left;
+	margin-bottom:20px;
+}
+.top-form form{
+	width:100%;
+	float:left;
+}
+td.actions{
+	width:21% !important;
+}
+.actions a.btn{
+	padding: 0px;
+    border: none;
+    background: 0px;
+    line-height: normal;
+    height: 25px;
+    line-height: 25px;
+    padding: 0px 17px;
+    display: inline-block;
+	color:#fff;
+}
+.actions a.btn-view{
+	background-color:#34a853;
+}
+.actions a.btn-tags{
+	background-color:#887575;
+}
+.actions a.btn-edit{
+	background-color:#fbbc05;
+}
+.actions a.btn-gallery{
+	background-color:#4285f4;
+}
+.actions a.btn-delet{
+	background-color:#d9534f;
+}
+.action_sec{
+	width:100%;
+	float:left;
+	margin-bottom:20px;
+}
+.bottom-ac{
+	margin:0px !important;
+}
+table{
+	margin-bottom:20px;
+}
+.paging{
+	width:100%;
+	float:left;
+}
+.paging span {
+    display: inline-block;
+	width:80px;
+    height: 35px;
+    line-height: 35px;
+    text-transform: capitalize;
+	text-align:center;
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+}
+.paging span a{
+	color:#fff;
+	text-decoration:none;
+}
+.sqldump{
+	display:none;
+}
+.up-img_sec{
+	width: 100%;
+    float: left;
+    margin-bottom: 20px;
+}
+.up-img_sec form{
+	width:100%;
+	float:left;
+}
+.input_file-sec{
+	width:100%;
+	float:left;
+	margin-bottom:15px;
+	position:relative;
+}
+.input_file-sec label{
+	width:100%;
+	float:left;
+}
+.input_file-sec input[type="file"]{
+	height:35px;
+	width:119px;
+	line-height:35px;
+	position:relative;
+	z-index:999;
+	opacity:0;
+	margin-right:4px;
+	float:left;
+	
+}
+.input_file-sec .input_img{
+	display:inline-block;
+	padding:6px 12px;
+	font-size:14px;
+	color:#fff;
+	background-color:#34a853;
+	border:1px solid #0e842e;
+	border-radius:3px;
+	position:absolute;
+	left:0px;
+	top:20px;
+}
+.input_file-sec .input_img:hover,
+.input_file-sec .input_img:focus{
+	background-color:#0e842e;
+}
+.form_outer{
+	width:100%;
+	float:left;
+	padding:15px 15px;
+	background-color:#f5f5f5;
+	border:1px solid #ddd;
+}
+.form_outer form{
+	width:100%;
+	float:left;
+}
+.form_outer form .checkbox{
+	margin:0px;
+}
+/* Default Css Include Here
+===========================*/
+.content {
+	width:100%;
+	float:left;
+    font-size: 80%;
+    padding: 15px;
+    background: #FFFFFF;
+}
+.footer {
+	width:100%;
+	float:left;
+    font-size: 80%;
+    padding: 15px;
+    background: #EFEFEF;
+}
+.footer p{
+	margin:0px;
+}
+.sqldump {
+    font-size: 80%;
+    padding: 15px;
+}
+.error {
+    color: #CC0000;
+}
+#flashMessage {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #EEEEEE;
+    color: #444444;
+}
+.checkbox {
+    padding-left: 20px;
+}
+.radio label,
+.checkbox label {
+    display: inline;
+    padding-left: 0px;
+}

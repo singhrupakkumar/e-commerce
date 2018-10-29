@@ -1,0 +1,963 @@
+[19-Jan-2017 06:31:26 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:26 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:27 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:27 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:27 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:27 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:31:29 America/Chicago] PHP Fatal error:  Call to undefined function webroot() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:50 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:50 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:51 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:55 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 06:33:55 America/Chicago] PHP Fatal error:  Call to undefined function ROOT() in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 140
+[19-Jan-2017 23:51:49 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/rupak/public_html/shop/app/View/Shop/index.ctp on line 2
+[19-Jan-2017 23:51:57 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/rupak/public_html/shop/app/View/Shop/index.ctp on line 2
+[20-Jan-2017 02:15:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/rupak/public_html/shop/app/View/Shop/index.ctp on line 131
+[24-Jan-2017 07:43:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 344
+[24-Jan-2017 07:44:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 344
+[24-Jan-2017 07:44:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 344
+[24-Jan-2017 07:45:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 344
+[24-Jan-2017 22:43:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in /home/rupak/public_html/shop/app/Controller/AppController.php on line 37
+[25-Jan-2017 03:22:07 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 89
+[25-Jan-2017 03:23:55 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 89
+[25-Jan-2017 05:02:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 78
+[25-Jan-2017 05:02:59 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 78
+[25-Jan-2017 05:46:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[25-Jan-2017 05:46:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[25-Jan-2017 05:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[25-Jan-2017 05:47:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[25-Jan-2017 05:47:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[25-Jan-2017 05:47:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 107
+[26-Jan-2017 23:25:17 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 397
+[27-Jan-2017 00:42:34 America/Chicago] PHP Fatal error:  Cannot redeclare UsersController::add() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 257
+[27-Jan-2017 00:42:35 America/Chicago] PHP Fatal error:  Cannot redeclare UsersController::add() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 257
+[27-Jan-2017 00:43:56 America/Chicago] PHP Fatal error:  Cannot redeclare UsersController::add() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 257
+[27-Jan-2017 02:43:36 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 509
+[27-Jan-2017 02:43:43 America/Chicago] PHP Parse error:  syntax error, unexpected '-', expecting '(' in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 509
+[27-Jan-2017 04:23:34 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 519
+[27-Jan-2017 06:17:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 210
+[27-Jan-2017 06:17:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 210
+[27-Jan-2017 07:05:09 America/Chicago] PHP Fatal error:  Call to a member function getAllProductMods() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 316
+[27-Jan-2017 07:05:29 America/Chicago] PHP Fatal error:  Call to a member function getAllProductMods() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 316
+[28-Jan-2017 03:07:55 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Shop/cart.ctp on line 79
+[28-Jan-2017 03:08:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Shop/cart.ctp on line 79
+[28-Jan-2017 07:12:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 3
+[28-Jan-2017 07:12:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 3
+[29-Jan-2017 23:59:41 America/Chicago] PHP Warning:  Unterminated comment starting line 714 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 714
+[30-Jan-2017 00:01:00 America/Chicago] PHP Warning:  Unterminated comment starting line 714 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 714
+[30-Jan-2017 00:03:06 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[30-Jan-2017 00:03:58 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[30-Jan-2017 00:04:35 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[30-Jan-2017 00:04:40 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[30-Jan-2017 02:43:37 America/Chicago] PHP Fatal error:  Call to undefined method CartComponent::checkcrt() in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 148
+[30-Jan-2017 03:22:12 America/Chicago] PHP Fatal error:  Call to undefined method CartComponent::checkcrt() in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 149
+[30-Jan-2017 05:02:53 America/Chicago] PHP Fatal error:  Call to a member function save() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 892
+[30-Jan-2017 05:06:01 America/Chicago] PHP Fatal error:  Call to a member function save() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 892
+[30-Jan-2017 07:07:03 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 07:14:05 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 07:26:31 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 07:29:56 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 10:15:18 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 10:16:59 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 10:21:48 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 10:27:00 America/Chicago] CSRF state token does not match one provided.
+[30-Jan-2017 10:30:09 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[30-Jan-2017 23:32:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 361
+[30-Jan-2017 23:32:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 361
+[30-Jan-2017 23:33:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 361
+[31-Jan-2017 01:47:33 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 392
+[31-Jan-2017 01:47:35 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 392
+[31-Jan-2017 02:00:50 America/Chicago] PHP Fatal error:  Call to a member function first() on array in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 122
+[31-Jan-2017 02:03:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 122
+[31-Jan-2017 02:05:02 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 124
+[31-Jan-2017 02:07:53 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 124
+[31-Jan-2017 02:09:15 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 124
+[31-Jan-2017 02:10:11 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:11:36 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:16:45 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:20:26 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:30:57 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:34:57 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:48:33 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:49:19 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:50:57 America/Chicago] PHP Fatal error:  Call to a member function read() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 109
+[31-Jan-2017 02:52:18 America/Chicago] PHP Fatal error:  Call to a member function set() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 110
+[31-Jan-2017 02:52:56 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 02:53:35 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:22:59 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:25:05 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:28:40 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:38:17 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:40:21 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 03:49:51 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 130
+[31-Jan-2017 04:15:23 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 06:52:41 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[31-Jan-2017 07:28:47 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[31-Jan-2017 10:34:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 10:36:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 10:39:15 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:40:59 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:44:07 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:46:53 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:48:48 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:53:52 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:56:10 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 10:57:42 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 11:05:50 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 11:07:23 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 11:11:58 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 11:16:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 11:16:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 11:17:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 11:21:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 223
+[31-Jan-2017 11:39:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 224
+[31-Jan-2017 11:40:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 224
+[31-Jan-2017 11:40:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 224
+[31-Jan-2017 11:42:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 212
+[31-Jan-2017 11:44:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 213
+[31-Jan-2017 11:44:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 213
+[31-Jan-2017 11:44:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'catch' (T_CATCH) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 213
+[31-Jan-2017 11:49:57 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 11:54:06 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:01:20 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:04:14 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:07:28 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:12:29 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:17:16 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:52:08 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:53:00 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:54:22 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 12:56:17 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 13:06:52 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[31-Jan-2017 13:07:12 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 19:42:10 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 22:53:16 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 22:55:36 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 22:56:30 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 22:58:04 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 23:04:14 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 23:06:03 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:06:27 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 23:07:16 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[31-Jan-2017 23:09:20 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:11:56 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:20:44 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:35:34 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:53:25 America/Chicago] CSRF state token does not match one provided.
+[31-Jan-2017 23:54:31 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[31-Jan-2017 23:59:50 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:00:12 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:15:49 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:34:49 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:35:45 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:35:53 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:36:11 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:40:48 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:40:53 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:40:59 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:46:53 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:47:02 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:47:45 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:48:12 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 00:48:22 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:48:27 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:50:49 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:50:55 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:51:12 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:51:58 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:55:07 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:55:16 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:55:18 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 00:55:49 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:01:05 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:02:03 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[01-Feb-2017 01:02:44 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[01-Feb-2017 01:04:34 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[01-Feb-2017 01:06:14 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[01-Feb-2017 01:07:05 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 01:07:13 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:38:50 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 01:38:59 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:39:45 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:45:56 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 01:52:28 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:52:45 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 01:54:09 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 05:05:02 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 637
+[01-Feb-2017 05:05:28 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 637
+[01-Feb-2017 05:44:31 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:44:39 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:44:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:44:56 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:45:50 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 05:46:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 06:43:12 America/Chicago] CSRF state token does not match one provided.
+[01-Feb-2017 06:43:22 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 06:44:37 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 07:14:33 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 07:15:07 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 07:16:40 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 07:26:40 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[01-Feb-2017 07:58:47 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Shop/address.ctp on line 107
+[01-Feb-2017 08:02:27 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Shop/cart.ctp on line 105
+[01-Feb-2017 08:02:40 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Shop/cart.ctp on line 105
+[01-Feb-2017 08:18:28 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 50
+[01-Feb-2017 08:18:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 50
+[01-Feb-2017 08:19:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[01-Feb-2017 08:19:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Layouts/default.ctp on line 526
+[02-Feb-2017 00:10:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:10:59 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:11:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:11:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:15:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:15:51 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 00:16:14 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1148
+[02-Feb-2017 01:31:46 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1160
+[02-Feb-2017 01:36:13 America/Chicago] PHP Fatal error:  Class 'TwitterOAuth' not found in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1160
+[02-Feb-2017 02:01:04 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1120
+[02-Feb-2017 02:11:54 America/Chicago] PHP Fatal error:  Class 'Users' not found in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1139
+[02-Feb-2017 04:36:46 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[02-Feb-2017 07:59:09 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 02:19:43 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 02:25:36 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 02:47:26 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 02:48:19 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 02:48:49 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[03-Feb-2017 13:13:16 America/Chicago] PHP Fatal error:  Call to undefined method StaticpagesController::getLastQuery() in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 540
+[03-Feb-2017 13:13:40 America/Chicago] PHP Fatal error:  Call to undefined function getLastQuery() in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 540
+[03-Feb-2017 13:15:30 America/Chicago] PHP Fatal error:  Call to a member function getDatasource() on null in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 540
+[03-Feb-2017 13:23:33 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on array in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 531
+[03-Feb-2017 13:50:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ')' in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 536
+[04-Feb-2017 00:06:46 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 501
+[04-Feb-2017 05:44:11 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[04-Feb-2017 05:44:15 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[04-Feb-2017 05:44:18 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[04-Feb-2017 05:44:21 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[04-Feb-2017 05:54:36 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[04-Feb-2017 05:54:41 America/Chicago] PHP Fatal error:  Call to a member function first() on null in /home/rupak/public_html/shop/app/View/Staticpages/wooden_watches.ctp on line 220
+[05-Feb-2017 23:37:20 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[05-Feb-2017 23:54:30 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 826
+[05-Feb-2017 23:54:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 826
+[05-Feb-2017 23:54:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 826
+[05-Feb-2017 23:55:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 826
+[06-Feb-2017 06:51:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 876
+[06-Feb-2017 07:11:18 America/Chicago] PHP Fatal error:  Call to undefined method ShopController::query() in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 864
+[06-Feb-2017 07:13:47 America/Chicago] PHP Fatal error:  Call to undefined method ShopController::query() in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 864
+[06-Feb-2017 07:14:00 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 864
+[06-Feb-2017 07:15:28 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 864
+[06-Feb-2017 07:15:31 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 864
+[06-Feb-2017 07:36:01 America/Chicago] PHP Warning:  Unterminated comment starting line 703 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 703
+[06-Feb-2017 07:37:13 America/Chicago] PHP Warning:  Unterminated comment starting line 706 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 706
+[06-Feb-2017 07:37:42 America/Chicago] PHP Warning:  Unterminated comment starting line 705 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 705
+[06-Feb-2017 07:39:00 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[06-Feb-2017 07:40:08 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[07-Feb-2017 02:07:02 America/Chicago] PHP Fatal error:  Cannot redeclare StaticpagesController::view() in /home/rupak/public_html/shop/app/Controller/StaticpagesController.php on line 121
+[07-Feb-2017 04:14:26 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[07-Feb-2017 07:03:52 America/Chicago] PHP Fatal error:  Call to a member function subject() on array in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 420
+[07-Feb-2017 07:36:53 America/Chicago] PHP Fatal error:  Call to a member function subject() on array in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 418
+[07-Feb-2017 07:47:00 America/Chicago] PHP Fatal error:  Call to a member function subject() on array in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 421
+[08-Feb-2017 03:45:56 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/rupak/public_html/shop/app/View/Products/admin_add.ctp on line 8
+[08-Feb-2017 07:16:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 7
+[08-Feb-2017 07:17:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 7
+[08-Feb-2017 07:17:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 7
+[08-Feb-2017 07:17:54 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 7
+[08-Feb-2017 07:27:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 236
+[08-Feb-2017 07:27:34 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 236
+[08-Feb-2017 23:45:41 America/Chicago] PHP Fatal error:  Call to a member function paginate() on null in /home/rupak/public_html/shop/app/Controller/CategoriesController.php on line 73
+[08-Feb-2017 23:46:58 America/Chicago] PHP Fatal error:  Call to a member function paginate() on null in /home/rupak/public_html/shop/app/Controller/CategoriesController.php on line 75
+[08-Feb-2017 23:47:02 America/Chicago] PHP Fatal error:  Call to a member function paginate() on null in /home/rupak/public_html/shop/app/Controller/CategoriesController.php on line 75
+[08-Feb-2017 23:47:51 America/Chicago] PHP Fatal error:  Call to a member function paginate() on null in /home/rupak/public_html/shop/app/Controller/CategoriesController.php on line 75
+[09-Feb-2017 02:33:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$fc' (T_VARIABLE), expecting function (T_FUNCTION) in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 491
+[09-Feb-2017 02:36:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 491
+[09-Feb-2017 07:09:50 America/Chicago] CSRF state token does not match one provided.
+[09-Feb-2017 07:10:01 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[09-Feb-2017 07:10:09 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[09-Feb-2017 07:10:18 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[09-Feb-2017 07:14:14 America/Chicago] CSRF state token does not match one provided.
+[09-Feb-2017 07:14:28 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[09-Feb-2017 07:14:34 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:26:59 America/Chicago] CSRF state token does not match one provided.
+[10-Feb-2017 03:27:13 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:27:22 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:27:28 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:36:14 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:47:07 America/Chicago] CSRF state token does not match one provided.
+[10-Feb-2017 03:49:55 America/Chicago] CSRF state token does not match one provided.
+[10-Feb-2017 03:50:08 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:50:14 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:53:34 America/Chicago] CSRF state token does not match one provided.
+[10-Feb-2017 03:53:52 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:54:01 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:54:11 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 03:56:58 America/Chicago] PHP Fatal error:  Call to undefined method Facebook::getRedirectLoginHelper() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 106
+[10-Feb-2017 04:00:23 America/Chicago] PHP Fatal error:  Call to undefined method Facebook::get() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 108
+[10-Feb-2017 04:10:58 America/Chicago] CSRF state token does not match one provided.
+[10-Feb-2017 04:13:01 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (user_photos) on node type (User)
+[10-Feb-2017 04:13:45 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (user_photos) on node type (User)
+[10-Feb-2017 04:15:03 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (user_photos) on node type (User)
+[10-Feb-2017 06:20:55 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 06:25:43 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 06:27:57 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 06:30:38 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 06:31:14 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 06:59:50 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[10-Feb-2017 08:18:20 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[11-Feb-2017 00:07:48 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 00:28:51 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 01:05:41 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 01:41:08 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 01:41:44 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 01:42:47 America/Chicago] OAuthException: An active access token must be used to query information about the current user.
+[11-Feb-2017 01:44:12 America/Chicago] CSRF state token does not match one provided.
+[11-Feb-2017 01:44:21 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[11-Feb-2017 04:41:09 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 354
+[13-Feb-2017 02:36:42 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[13-Feb-2017 02:37:04 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[13-Feb-2017 02:37:19 America/Chicago] OAuthException: (#100) Tried accessing nonexisting field (image) on node type (User)
+[13-Feb-2017 03:31:35 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 03:31:49 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:34:10 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:39:00 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:39:13 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:39:23 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:40:11 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:40:20 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:40:36 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:41:43 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:42:25 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:42:28 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:42:53 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 03:43:02 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:47:30 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:47:32 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:47:36 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:48:04 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 03:48:15 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:48:23 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 03:51:02 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 04:02:47 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 04:13:10 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 04:28:01 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 142
+[13-Feb-2017 04:31:24 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:40:33 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:45:52 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 141
+[13-Feb-2017 04:46:42 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:47:33 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:47:37 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:47:39 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:48:03 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 118
+[13-Feb-2017 04:53:05 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::authenticate() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 117
+[13-Feb-2017 05:05:46 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::authenticate() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 117
+[13-Feb-2017 05:06:35 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 05:06:44 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 05:06:52 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 05:10:44 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 05:11:43 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 05:11:53 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 05:12:01 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 05:57:41 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::identity() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 120
+[13-Feb-2017 06:01:25 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::identity() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 121
+[13-Feb-2017 06:08:18 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 151
+[13-Feb-2017 06:09:52 America/Chicago] PHP Fatal error:  Call to undefined method AuthComponent::setUser() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 154
+[13-Feb-2017 06:15:43 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 06:15:56 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 06:16:04 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 06:22:44 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 06:24:06 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 06:38:41 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 07:05:16 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 07:05:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:05:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:06:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:00 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'location' (T_STRING), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 380
+[13-Feb-2017 07:08:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1350
+[13-Feb-2017 07:09:13 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1350
+[13-Feb-2017 07:09:20 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1350
+[13-Feb-2017 07:24:17 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 07:43:22 America/Chicago] PHP Fatal error:  Call to undefined method Configure::wrire() in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 91
+[13-Feb-2017 07:46:34 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:13:25 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:16:08 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:16:53 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:18:04 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:20:29 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:20:52 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:46:28 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:48:24 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 11:48:32 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 22:40:58 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 22:50:03 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 22:52:20 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 23:10:16 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:11:08 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 23:11:58 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 23:12:07 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:13:15 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 23:21:14 America/Chicago] CSRF state token does not match one provided.
+[13-Feb-2017 23:24:01 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:30:12 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:30:55 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:35:46 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:37:49 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:46:58 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:50:13 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:50:32 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:53:59 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:58:47 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[13-Feb-2017 23:59:33 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[14-Feb-2017 00:24:35 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 271
+[14-Feb-2017 00:24:53 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 271
+[14-Feb-2017 00:25:09 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 271
+[14-Feb-2017 00:25:14 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 271
+[14-Feb-2017 00:25:19 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 271
+[14-Feb-2017 00:34:41 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[14-Feb-2017 00:40:08 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home/rupak/public_html/shop/app/View/Users/track_order.ctp on line 65
+[14-Feb-2017 01:11:12 America/Chicago] CSRF state token does not match one provided.
+[14-Feb-2017 01:11:12 America/Chicago] CSRF state token does not match one provided.
+[14-Feb-2017 01:34:00 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/BrandsController.php on line 72
+[14-Feb-2017 01:48:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 148
+[14-Feb-2017 02:20:53 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[14-Feb-2017 02:23:47 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/rupak/public_html/shop/app/View/Users/edit.ctp on line 3
+[14-Feb-2017 02:23:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/rupak/public_html/shop/app/View/Users/edit.ctp on line 3
+[14-Feb-2017 07:35:49 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 140
+[14-Feb-2017 07:35:56 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 140
+[14-Feb-2017 07:36:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 140
+[14-Feb-2017 07:37:05 America/Chicago] PHP Fatal error:  Call to undefined method View::elements() in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 79
+[14-Feb-2017 07:37:54 America/Chicago] PHP Fatal error:  Call to undefined method View::elements() in /home/rupak/public_html/shop/app/View/Elements/products.ctp on line 79
+[14-Feb-2017 08:02:25 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 950
+[14-Feb-2017 08:02:42 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 950
+[14-Feb-2017 08:02:56 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 950
+[14-Feb-2017 08:03:17 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 873
+[15-Feb-2017 03:03:38 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[15-Feb-2017 05:57:50 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[15-Feb-2017 05:59:33 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[15-Feb-2017 05:59:53 America/Chicago] PHP Warning:  Unterminated comment starting line 708 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 708
+[15-Feb-2017 06:05:45 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[15-Feb-2017 06:31:51 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[15-Feb-2017 06:41:10 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[15-Feb-2017 14:10:51 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[16-Feb-2017 00:13:30 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 424
+[16-Feb-2017 00:13:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 424
+[16-Feb-2017 00:21:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 424
+[16-Feb-2017 02:10:31 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[16-Feb-2017 02:11:17 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[16-Feb-2017 02:11:53 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[17-Feb-2017 13:10:25 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[17-Feb-2017 13:10:37 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[17-Feb-2017 13:12:12 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[20-Feb-2017 00:47:20 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[20-Feb-2017 01:56:46 America/Chicago] PHP Warning:  Unterminated comment starting line 711 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 711
+[20-Feb-2017 05:08:00 America/Chicago] PHP Warning:  Unterminated comment starting line 707 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 707
+[20-Feb-2017 05:10:43 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[20-Feb-2017 05:10:43 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[20-Feb-2017 05:10:43 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[20-Feb-2017 05:10:55 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[20-Feb-2017 05:12:23 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[20-Feb-2017 05:14:29 America/Chicago] PHP Warning:  Unterminated comment starting line 688 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 688
+[20-Feb-2017 05:16:16 America/Chicago] PHP Warning:  Unterminated comment starting line 688 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 688
+[20-Feb-2017 05:17:04 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 05:17:28 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 05:35:25 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 05:38:16 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 05:39:34 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 05:42:33 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 06:05:28 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[20-Feb-2017 06:05:33 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[20-Feb-2017 06:06:18 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[20-Feb-2017 06:08:05 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[20-Feb-2017 06:09:48 America/Chicago] PHP Warning:  Unterminated comment starting line 667 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 667
+[20-Feb-2017 06:09:51 America/Chicago] PHP Warning:  Unterminated comment starting line 667 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 667
+[20-Feb-2017 06:13:15 America/Chicago] PHP Warning:  Unterminated comment starting line 662 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 662
+[20-Feb-2017 06:13:16 America/Chicago] PHP Warning:  Unterminated comment starting line 662 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 662
+[20-Feb-2017 06:13:16 America/Chicago] PHP Warning:  Unterminated comment starting line 662 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 662
+[20-Feb-2017 06:14:05 America/Chicago] PHP Warning:  Unterminated comment starting line 662 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 662
+[20-Feb-2017 06:18:31 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:31 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:31 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:32 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:33 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:18:35 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:19:17 America/Chicago] PHP Warning:  Unterminated comment starting line 653 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 653
+[20-Feb-2017 06:19:33 America/Chicago] PHP Warning:  Unterminated comment starting line 653 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 653
+[20-Feb-2017 06:24:09 America/Chicago] PHP Warning:  Unterminated comment starting line 653 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 653
+[20-Feb-2017 06:24:38 America/Chicago] PHP Warning:  Unterminated comment starting line 653 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 653
+[20-Feb-2017 06:27:10 America/Chicago] PHP Warning:  Unterminated comment starting line 653 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 653
+[20-Feb-2017 06:28:00 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:28:12 America/Chicago] PHP Warning:  Unterminated comment starting line 663 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 663
+[20-Feb-2017 06:31:06 America/Chicago] PHP Warning:  Unterminated comment starting line 664 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 664
+[20-Feb-2017 06:31:53 America/Chicago] PHP Warning:  Unterminated comment starting line 664 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 664
+[20-Feb-2017 06:33:04 America/Chicago] PHP Warning:  Unterminated comment starting line 664 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 664
+[20-Feb-2017 06:33:36 America/Chicago] PHP Warning:  Unterminated comment starting line 664 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 664
+[20-Feb-2017 06:37:37 America/Chicago] PHP Warning:  Unterminated comment starting line 664 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 664
+[20-Feb-2017 06:39:01 America/Chicago] PHP Warning:  Unterminated comment starting line 666 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 666
+[20-Feb-2017 06:39:01 America/Chicago] PHP Warning:  Unterminated comment starting line 666 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 666
+[20-Feb-2017 06:39:01 America/Chicago] PHP Warning:  Unterminated comment starting line 666 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 666
+[20-Feb-2017 06:40:43 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:45 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:40:46 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:44:19 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:48:58 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:49:13 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:49:51 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:52:21 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:52:50 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:54:44 America/Chicago] PHP Warning:  Unterminated comment starting line 669 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 669
+[20-Feb-2017 06:56:34 America/Chicago] PHP Warning:  Unterminated comment starting line 671 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 671
+[20-Feb-2017 06:56:42 America/Chicago] PHP Warning:  Unterminated comment starting line 671 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 671
+[20-Feb-2017 06:57:33 America/Chicago] PHP Warning:  Unterminated comment starting line 671 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 671
+[20-Feb-2017 06:57:43 America/Chicago] PHP Warning:  Unterminated comment starting line 671 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 671
+[20-Feb-2017 06:57:49 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 06:59:19 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 07:00:45 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 07:02:12 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 07:02:20 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 07:03:29 America/Chicago] PHP Warning:  Unterminated comment starting line 672 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 672
+[20-Feb-2017 07:03:38 America/Chicago] PHP Warning:  Unterminated comment starting line 671 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 671
+[20-Feb-2017 07:04:50 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:04:51 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:07:03 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[20-Feb-2017 07:07:09 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[20-Feb-2017 07:07:20 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[20-Feb-2017 07:08:08 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[20-Feb-2017 07:08:29 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:08:29 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:08:29 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:08:30 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:10:50 America/Chicago] PHP Warning:  Unterminated comment starting line 674 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 674
+[20-Feb-2017 07:18:15 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:16 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:17 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:18 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:18:56 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:02 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:20:03 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:21:43 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:21:44 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:21:44 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:21:58 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:25:53 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:26:24 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:28:39 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:29:29 America/Chicago] PHP Fatal error:  Call to a member function create() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 38
+[20-Feb-2017 07:30:18 America/Chicago] PHP Fatal error:  Call to a member function create() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 38
+[20-Feb-2017 07:32:33 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[20-Feb-2017 07:50:52 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 07:52:36 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 07:53:36 America/Chicago] PHP Fatal error:  Call to undefined method SeriesesController::loadModal() in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 07:53:39 America/Chicago] PHP Fatal error:  Call to undefined method SeriesesController::loadModal() in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 07:53:51 America/Chicago] PHP Fatal error:  Call to undefined method SeriesesController::loadModal() in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 08:36:51 America/Chicago] CSRF state token does not match one provided.
+[20-Feb-2017 08:38:09 America/Chicago] CSRF state token does not match one provided.
+[20-Feb-2017 23:23:27 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:25:48 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:25:50 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:26:34 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:26:37 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:26:39 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 13
+[20-Feb-2017 23:27:34 America/Chicago] PHP Fatal error:  Call to undefined method SeriesesController::loadModal() in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 12
+[20-Feb-2017 23:29:36 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 14
+[20-Feb-2017 23:35:22 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/SeriesesController.php on line 14
+[21-Feb-2017 00:54:39 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 147
+[21-Feb-2017 00:55:09 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 147
+[21-Feb-2017 00:57:58 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 147
+[21-Feb-2017 01:20:05 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[21-Feb-2017 01:22:10 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[21-Feb-2017 01:27:14 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[21-Feb-2017 01:27:59 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[21-Feb-2017 01:30:58 America/Chicago] PHP Warning:  Unterminated comment starting line 677 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 677
+[21-Feb-2017 01:34:09 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:09 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:09 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:09 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:09 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:10 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:34:10 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:35:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:35:39 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:35:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:36:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:36:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:37:18 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:38:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:38:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:39:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:39:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:41:19 America/Chicago] PHP Warning:  Unterminated comment starting line 675 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 675
+[21-Feb-2017 01:41:21 America/Chicago] PHP Warning:  Unterminated comment starting line 675 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 675
+[21-Feb-2017 01:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:41:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:08 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:10 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:11 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:16 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:18 America/Chicago] PHP Warning:  Unterminated comment starting line 675 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 675
+[21-Feb-2017 01:42:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:42:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:43:49 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:44:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:44:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:44:48 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:44:54 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:45:27 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:46:32 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:46:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:46:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:46:53 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:46:57 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:47:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:47:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:49:17 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:50:06 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:50:06 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 01:51:07 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:51:09 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 01:54:12 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 150
+[21-Feb-2017 02:31:20 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 02:34:03 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 02:34:22 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 04:01:20 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 04:10:28 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 04:19:23 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 04:21:42 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 04:27:14 America/Chicago] PHP Fatal error:  Call to a member function find() on null in /home/rupak/public_html/shop/app/Controller/ReviewsController.php on line 39
+[21-Feb-2017 07:08:03 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 07:08:26 America/Chicago] PHP Warning:  Unterminated comment starting line 676 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 676
+[21-Feb-2017 07:10:11 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[21-Feb-2017 07:10:32 America/Chicago] PHP Warning:  Unterminated comment starting line 678 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 678
+[21-Feb-2017 07:13:33 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[21-Feb-2017 07:13:48 America/Chicago] PHP Warning:  Unterminated comment starting line 681 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 681
+[21-Feb-2017 07:14:18 America/Chicago] PHP Warning:  Unterminated comment starting line 682 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 682
+[21-Feb-2017 07:15:46 America/Chicago] PHP Warning:  Unterminated comment starting line 682 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 682
+[21-Feb-2017 07:15:54 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[21-Feb-2017 07:20:09 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:33:45 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:35:33 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:36:11 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:36:51 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:39:08 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 07:49:37 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:08:41 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:09:46 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:10:05 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:12:07 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:12:34 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:12:42 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:12:43 America/Chicago] PHP Warning:  Unterminated comment starting line 684 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 684
+[21-Feb-2017 08:16:01 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 08:16:13 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 08:18:36 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 08:20:37 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 23:08:16 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 23:08:20 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 23:08:53 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 23:37:20 America/Chicago] PHP Warning:  Unterminated comment starting line 685 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 685
+[21-Feb-2017 23:42:53 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[21-Feb-2017 23:43:18 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 00:49:50 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 00:59:05 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:00:45 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:31:07 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:33:14 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:41:32 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:42:55 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:44:46 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:49:35 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:54:35 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 01:54:42 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 02:15:30 America/Chicago] PHP Parse error:  syntax error, unexpected ''passw' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1149
+[22-Feb-2017 07:59:06 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 07:59:27 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 08:06:16 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 08:08:13 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[22-Feb-2017 08:09:18 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 00:36:00 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 00:39:20 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 00:42:41 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 00:43:08 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 00:51:44 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Feb-2017 06:56:20 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 00:40:51 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 01:07:07 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 01:34:51 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 01:35:08 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 01:37:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 308
+[27-Feb-2017 01:37:15 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 01:37:51 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 308
+[27-Feb-2017 01:37:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 308
+[27-Feb-2017 01:38:00 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/rupak/public_html/shop/app/View/Categories/view.ctp on line 308
+[27-Feb-2017 01:55:50 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 02:32:30 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 02:33:40 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 02:34:14 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 03:19:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 564
+[27-Feb-2017 03:46:42 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 4
+[27-Feb-2017 03:46:54 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 799
+[27-Feb-2017 03:47:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:48:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:48:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:48:36 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:48:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:50:28 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 4
+[27-Feb-2017 03:50:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:50:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:51:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:51:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:52:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:52:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:53:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:53:40 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:55:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:55:42 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:43 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:45 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:45 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:49 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:55:49 America/Chicago] PHP Fatal error:  Class 'Google_Client' not found in /home/rupak/public_html/shop/app/Controller/AppController.php on line 102
+[27-Feb-2017 03:57:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:57:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:57:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:57:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:57:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1351
+[27-Feb-2017 03:59:48 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1288
+[27-Feb-2017 04:00:08 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1288
+[27-Feb-2017 04:00:35 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1288
+[27-Feb-2017 04:02:09 America/Chicago] PHP Fatal error:  Call to a member function get() on null in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1288
+[27-Feb-2017 04:08:13 America/Chicago] PHP Fatal error:  Class 'AppController' not found in /home/rupak/public_html/shop/app/Controller/ShopController.php on line 4
+[27-Feb-2017 04:18:47 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:20:05 America/Chicago] CSRF state token does not match one provided.
+[27-Feb-2017 04:20:17 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:20:45 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:21:44 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:22:49 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:55:47 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:56:43 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 04:58:05 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:12:45 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:14:13 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:28:35 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:31:05 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:35:51 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:40:15 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 05:55:03 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 06:15:03 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 06:20:31 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 06:20:34 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 06:37:38 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 06:44:09 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 07:20:27 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[27-Feb-2017 23:34:20 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:04:15 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:05:31 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:08:02 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:08:41 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:10:01 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:28:09 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:28:25 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:30:34 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:32:05 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 00:32:30 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:12:41 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:13:39 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:19:16 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:21:07 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:21:24 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:22:33 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:25:55 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:26:40 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:27:10 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:28:24 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:33:14 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:37:04 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:43:07 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 01:54:31 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/rupak/public_html/shop/app/View/Staticpages/admin_index.ctp on line 71
+[28-Feb-2017 02:14:42 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 02:27:00 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 02:27:43 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 02:33:47 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 02:39:16 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:28:36 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:28:55 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:29:15 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:30:04 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:30:41 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:31:33 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:36:02 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 03:36:12 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 07:01:50 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 07:03:31 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 07:17:23 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 07:26:10 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 07:59:11 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Feb-2017 08:23:05 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/rupak/public_html/shop/app/View/Products/view.ctp on line 51
+[01-Mar-2017 00:06:42 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 422
+[01-Mar-2017 01:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 352
+[01-Mar-2017 01:37:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 352
+[01-Mar-2017 01:38:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 352
+[01-Mar-2017 01:38:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 352
+[01-Mar-2017 01:41:37 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/rupak/public_html/shop/app/Controller/ProductsController.php on line 352
+[02-Mar-2017 01:28:30 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/rupak/public_html/shop/app/Controller/UsersController.php on line 1160
+[02-Mar-2017 08:10:36 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[02-Mar-2017 08:16:37 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[02-Mar-2017 08:20:13 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[02-Mar-2017 08:20:56 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[02-Mar-2017 08:20:56 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[06-Mar-2017 05:23:19 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[07-Mar-2017 05:28:06 America/Chicago] PHP Fatal error:  Call to a member function findById() on null in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 48
+[07-Mar-2017 05:31:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 85
+[07-Mar-2017 05:32:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 85
+[07-Mar-2017 05:33:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 85
+[07-Mar-2017 05:33:07 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 85
+[07-Mar-2017 06:45:11 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 79
+[07-Mar-2017 06:45:14 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 79
+[07-Mar-2017 06:45:18 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 79
+[07-Mar-2017 06:49:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 76
+[07-Mar-2017 06:49:46 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 79
+[07-Mar-2017 06:49:51 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rupak/public_html/shop/app/View/Emails/text/order.ctp on line 79
+[07-Mar-2017 07:00:07 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:00:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:00:29 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:01:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:01:47 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:01:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:02:27 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:02:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$shop' (T_VARIABLE), expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 46
+[07-Mar-2017 07:02:40 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 44
+[07-Mar-2017 07:03:03 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/rupak/public_html/shop/app/Controller/OrdersController.php on line 44
+[20-Mar-2017 07:33:23 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[20-Mar-2017 07:42:21 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[20-Mar-2017 07:43:26 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Mar-2017 03:20:09 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[23-Mar-2017 06:10:16 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683
+[28-Mar-2017 00:08:27 America/Chicago] PHP Warning:  Unterminated comment starting line 683 in /home/rupak/public_html/shop/app/View/Users/myaccount.ctp on line 683

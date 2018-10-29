@@ -1,0 +1,12 @@
+stdClass Object
+(
+    [user] => stdClass Object
+        (
+            [name] => Babita Rawat
+            [email] => babita@futureworktechnologies.com
+            [facebook_id] => 266348737139349
+            [session_id] => 1489212714357
+            [picture] => https://graph.facebook.com/266348737139349/picture?type=large
+        )
+
+)
